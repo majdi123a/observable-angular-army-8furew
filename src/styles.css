@@ -1,0 +1,32 @@
+/* Add application styles & imports to this file! */
+/* You can add global styles to this file, and also import other style files */
+body {
+  font-family: sans-serif;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin: 24px 0;
+  box-shadow: 0 2px 2px rgba(10, 16, 20, 0.24), 0 0 2px rgba(10, 16, 20, 0.12);
+  border-radius: 2px;
+  background: #fafafa;
+}
+th {
+  background: rgba(219, 219, 219, 0.2);
+  border-bottom: 1px solid #dbdbdb;
+  color: #333;
+  font-size: 12px;
+  font-weight: 500;
+  padding: 8px 24px;
+  text-align: left;
+  text-transform: uppercase;
+  line-height: 28px;
+}
+td {
+  letter-spacing: 0.3px;
+  border-bottom: 1px solid #dbdbdb;
+  padding: 16px;
+  text-align: left;
+  line-height: 24px;
+  vertical-align: top;
+}
